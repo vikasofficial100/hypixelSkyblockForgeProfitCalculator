@@ -1,0 +1,116 @@
+/* frontend/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-sky-dark text-sky-text font-minecraft;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-sky-card;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-sky-border rounded;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-info-blue;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-sky-card rounded-lg border border-sky-border p-4;
+  }
+  
+  .btn-primary {
+    @apply bg-profit-green text-black font-semibold py-2 px-4 rounded-lg hover:opacity-80 transition-all;
+  }
+  
+  .btn-secondary {
+    @apply bg-sky-border text-sky-text py-2 px-4 rounded-lg hover:bg-opacity-80 transition-all;
+  }
+  
+  .input-field {
+    @apply bg-sky-dark border border-sky-border rounded-lg px-3 py-2 text-sky-text transition-all;
+  }
+  
+  .input-field:focus {
+    @apply outline-none border-profit-green;
+  }
+  
+  .input-field:hover {
+    @apply border-sky-text-secondary;
+  }
+  
+  .input-field:focus-visible {
+    outline: none;
+  }
+  
+  .profit-positive {
+    @apply text-profit-green;
+  }
+  
+  .profit-negative {
+    @apply text-loss-red;
+  }
+  
+  .warning {
+    @apply text-warning-yellow;
+  }
+}
+
+/* Placeholder styling */
+.input-field::placeholder {
+  color: #4a4a6a;
+  opacity: 0.6;
+  font-size: 0.85rem;
+}
+
+.input-field:focus::placeholder {
+  opacity: 0.3;
+}
+
+/* Remove number input spinners (up/down arrows) */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+/* Sticky header support - FIXED */
+.sticky-header th {
+  position: sticky;
+  top: 61px;
+  background-color: #1a1a2e;
+  z-index: 10;
+}
+
+/* Mobile adjustment */
+@media (max-width: 768px) {
+  .sticky-header th {
+    top: 57px;
+  }
+}
+
+/* Table container for scrolling */
+.table-container {
+  overflow-x: auto;
+  position: relative;
+}

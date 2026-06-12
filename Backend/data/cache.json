@@ -1,0 +1,2641 @@
+{
+  "listItems": [
+    {
+      "itemId": "REFINED_DIAMOND",
+      "name": "Refined Diamond",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 8,
+      "durationAdjusted": 8,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 623552.8,
+        "sellPriceWithTax": 616538,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 407801.4
+      },
+      "profit": {
+        "profitPerForge": 208736.59999999998,
+        "profitPerHour": 26092.074999999997,
+        "ratio": 1.5290599787053207,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "REFINED_MITHRIL",
+      "name": "Refined Mithril",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 533927.8,
+        "sellPriceWithTax": 527921,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 273328
+      },
+      "profit": {
+        "profitPerForge": 254593,
+        "profitPerHour": 42432.166666666664,
+        "ratio": 1.9534325060001172,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "REFINED_TITANIUM",
+      "name": "Refined Titanium",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 12,
+      "durationAdjusted": 12,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 661507.7,
+        "sellPriceWithTax": 654066,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 379921.6
+      },
+      "profit": {
+        "profitPerForge": 274144.4,
+        "profitPerHour": 22845.36666666667,
+        "ratio": 1.7411689674922406,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "REFINED_UMBER",
+      "name": "Refined Umber",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 1,
+      "durationAdjusted": 1,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 2852189.1,
+        "sellPriceWithTax": 2820102,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2577200
+      },
+      "profit": {
+        "profitPerForge": 242902,
+        "profitPerHour": 242902,
+        "ratio": 1.1067007217134874,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "REFINED_TUNGSTEN",
+      "name": "Refined Tungsten",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 1,
+      "durationAdjusted": 1,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 2858651.7,
+        "sellPriceWithTax": 2826492,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2545152
+      },
+      "profit": {
+        "profitPerForge": 281340,
+        "profitPerHour": 281340,
+        "ratio": 1.1231752366852747,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "BEJEWELED_HANDLE",
+      "name": "Bejeweled Handle",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 131936.3,
+        "sellPriceWithTax": 130452,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 106595.09999999999
+      },
+      "profit": {
+        "profitPerForge": 23856.90000000001,
+        "profitPerHour": null,
+        "ratio": 1.2377332541552097,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DRILL_ENGINE",
+      "name": "Drill Motor",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 30,
+      "durationAdjusted": 30,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 3280051.3,
+        "sellPriceWithTax": 3243151,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2551988
+      },
+      "profit": {
+        "profitPerForge": 691163,
+        "profitPerHour": 23038.766666666666,
+        "ratio": 1.285292603256755,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "FUEL_TANK",
+      "name": "Fuel Canister",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 10,
+      "durationAdjusted": 10,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 284997.2,
+        "sellPriceWithTax": 281791,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 55598
+      },
+      "profit": {
+        "profitPerForge": 226193,
+        "profitPerHour": 22619.3,
+        "ratio": 5.126033310550739,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GEMSTONE_MIXTURE",
+      "name": "Gemstone Mixture",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 1877680.4,
+        "sellPriceWithTax": 1856556,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1158938.4
+      },
+      "profit": {
+        "profitPerForge": 697617.6000000001,
+        "profitPerHour": 174404.40000000002,
+        "ratio": 1.6201727373948436,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GLACITE_AMALGAMATION",
+      "name": "Glacite Amalgamation",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 1490971.2,
+        "sellPriceWithTax": 1474198,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1078042.8
+      },
+      "profit": {
+        "profitPerForge": 396155.19999999995,
+        "profitPerHour": 99038.79999999999,
+        "ratio": 1.3830352561141357,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GOLDEN_PLATE",
+      "name": "Golden Plate",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 1432303.7,
+        "sellPriceWithTax": 1416190,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 959153.1000000001
+      },
+      "profit": {
+        "profitPerForge": 457036.8999999999,
+        "profitPerHour": 76172.81666666665,
+        "ratio": 1.4933003917727001,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "MITHRIL_PLATE",
+      "name": "Mithril Plate",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 5825000,
+        "sellPriceWithTax": 5759469,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 4814469.5
+      },
+      "profit": {
+        "profitPerForge": 944999.5,
+        "profitPerHour": 52499.97222222222,
+        "ratio": 1.2098944650080345,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TUNGSTEN_PLATE",
+      "name": "Tungsten Plate",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 3,
+      "durationAdjusted": 3,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 13774959.8,
+        "sellPriceWithTax": 13619992,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 12925578
+      },
+      "profit": {
+        "profitPerForge": 694414,
+        "profitPerHour": 231471.33333333334,
+        "ratio": 1.0657132547573502,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "UMBER_PLATE",
+      "name": "Umber Plate",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 3,
+      "durationAdjusted": 3,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 13941282.4,
+        "sellPriceWithTax": 13784443,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 12899727.6
+      },
+      "profit": {
+        "profitPerForge": 884715.4000000004,
+        "profitPerHour": 294905.1333333335,
+        "ratio": 1.0807423871493225,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_PLATE",
+      "name": "Perfect Plate",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "10",
+      "duration": 0.5,
+      "durationAdjusted": 0.5,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 35306461.8,
+        "sellPriceWithTax": 34909264,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 33541242.200000003
+      },
+      "profit": {
+        "profitPerForge": 1368021.799999997,
+        "profitPerHour": 2736043.599999994,
+        "ratio": 1.0526283310997944,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "MITHRIL_DRILL_1",
+      "name": "Mithril Drill SX-R226",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 6200000,
+        "sellPriceWithTax": 6076000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5166831.9
+      },
+      "profit": {
+        "profitPerForge": 909168.0999999996,
+        "profitPerHour": 227292.0249999999,
+        "ratio": 1.199961624453081,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GEMSTONE_DRILL_1",
+      "name": "Ruby Drill TX-15",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 3980000,
+        "sellPriceWithTax": 3900400,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3738062.6999999997
+      },
+      "profit": {
+        "profitPerForge": 162337.30000000028,
+        "profitPerHour": 40584.32500000007,
+        "ratio": 1.064722643630349,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "POLISHED_TOPAZ_ROD",
+      "name": "Topaz Rod",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 12,
+      "durationAdjusted": 12,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 9788000,
+        "sellPriceWithTax": 9592240,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 8632157.600000001
+      },
+      "profit": {
+        "profitPerForge": 960082.3999999985,
+        "profitPerHour": 80006.86666666654,
+        "ratio": 1.1338995942335435,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_DRILL_1",
+      "name": "Titanium Drill DR-X355",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 25124999,
+        "sellPriceWithTax": 24622499,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 21722354.7
+      },
+      "profit": {
+        "profitPerForge": 2900144.3000000007,
+        "profitPerHour": 725036.0750000002,
+        "ratio": 1.156642516292214,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "CHISEL",
+      "name": "Chisel",
+      "rarity": "COMMON",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 0,
+        "sellPriceWithTax": 0,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 141376.3
+      },
+      "profit": {
+        "profitPerForge": -141376.3,
+        "profitPerHour": -35344.075,
+        "ratio": 0,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "MITHRIL_NECKLACE",
+      "name": "Mithril Necklace",
+      "rarity": "UNCOMMON",
+      "category": "FORGING",
+      "tier": "1",
+      "duration": 1,
+      "durationAdjusted": 1,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 200000,
+        "sellPriceWithTax": 198000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5124.9
+      },
+      "profit": {
+        "profitPerForge": 192875.1,
+        "profitPerHour": 192875.1,
+        "ratio": 39.02515171027728,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "MITHRIL_CLOAK",
+      "name": "Mithril Cloak",
+      "rarity": "UNCOMMON",
+      "category": "FORGING",
+      "tier": "1",
+      "duration": 1,
+      "durationAdjusted": 1,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 179000,
+        "sellPriceWithTax": 177210,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5124.9
+      },
+      "profit": {
+        "profitPerForge": 172085.1,
+        "profitPerHour": 172085.1,
+        "ratio": 34.927510780698164,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "MITHRIL_BELT",
+      "name": "Mithril Belt",
+      "rarity": "UNCOMMON",
+      "category": "FORGING",
+      "tier": "1",
+      "duration": 1,
+      "durationAdjusted": 1,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 200000,
+        "sellPriceWithTax": 198000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5124.9
+      },
+      "profit": {
+        "profitPerForge": 192875.1,
+        "profitPerHour": 192875.1,
+        "ratio": 39.02515171027728,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "MITHRIL_GAUNTLET",
+      "name": "Mithril Gauntlet",
+      "rarity": "UNCOMMON",
+      "category": "FORGING",
+      "tier": "1",
+      "duration": 1,
+      "durationAdjusted": 1,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 248000,
+        "sellPriceWithTax": 245520,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5124.9
+      },
+      "profit": {
+        "profitPerForge": 240395.1,
+        "profitPerHour": 240395.1,
+        "ratio": 48.39118812074382,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_NECKLACE",
+      "name": "Titanium Necklace",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 4.5,
+      "durationAdjusted": 4.5,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 5450000,
+        "sellPriceWithTax": 5341000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3533504.5
+      },
+      "profit": {
+        "profitPerForge": 1807495.5,
+        "profitPerHour": 401665.6666666667,
+        "ratio": 1.5423781121546611,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_CLOAK",
+      "name": "Titanium Cloak",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 4.5,
+      "durationAdjusted": 4.5,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 4400000,
+        "sellPriceWithTax": 4312000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3512504.5
+      },
+      "profit": {
+        "profitPerForge": 799495.5,
+        "profitPerHour": 177665.66666666666,
+        "ratio": 1.2526674343050663,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_BELT",
+      "name": "Titanium Belt",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 4.5,
+      "durationAdjusted": 4.5,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 6900000,
+        "sellPriceWithTax": 6762000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3533504.5
+      },
+      "profit": {
+        "profitPerForge": 3228495.5,
+        "profitPerHour": 717443.4444444445,
+        "ratio": 1.952735591535259,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_GAUNTLET",
+      "name": "Titanium Gauntlet",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 4.5,
+      "durationAdjusted": 4.5,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 4595000,
+        "sellPriceWithTax": 4503100,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3581504.5
+      },
+      "profit": {
+        "profitPerForge": 921595.5,
+        "profitPerHour": 204799,
+        "ratio": 1.2829803787765728,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_TALISMAN",
+      "name": "Titanium Talisman",
+      "rarity": "UNCOMMON",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 14,
+      "durationAdjusted": 14,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 1825000,
+        "sellPriceWithTax": 1788500,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1323015.4
+      },
+      "profit": {
+        "profitPerForge": 465484.6000000001,
+        "profitPerHour": 33248.90000000001,
+        "ratio": 1.379424608360568,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_RING",
+      "name": "Titanium Ring",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 7200000,
+        "sellPriceWithTax": 7056000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5794046.199999999
+      },
+      "profit": {
+        "profitPerForge": 1261953.8000000007,
+        "profitPerHour": 63097.69000000004,
+        "ratio": 1.2426549170422565,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_ARTIFACT",
+      "name": "Titanium Artifact",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 36,
+      "durationAdjusted": 36,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 14999999,
+        "sellPriceWithTax": 14699999,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 15138092.399999999
+      },
+      "profit": {
+        "profitPerForge": -438093.3999999985,
+        "profitPerHour": -12169.26111111107,
+        "ratio": 0.9908777541878395,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "TITANIUM_RELIC",
+      "name": "Titanium Relic",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 72,
+      "durationAdjusted": 72,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 30200000,
+        "sellPriceWithTax": 29596000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 28230153
+      },
+      "profit": {
+        "profitPerForge": 1365847,
+        "profitPerHour": 18970.097222222223,
+        "ratio": 1.069778119870622,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DIVAN_POWDER_COATING",
+      "name": "Divan's Powder Coating",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 36,
+      "durationAdjusted": 36,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 88999987,
+        "sellPriceWithTax": 87998737,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 74260455.7
+      },
+      "profit": {
+        "profitPerForge": 13738281.299999997,
+        "profitPerHour": 381618.92499999993,
+        "ratio": 1.1984842560022158,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DIVAN_HELMET",
+      "name": "Helmet Of Divan",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "6",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 23890000,
+        "sellPriceWithTax": 23412200,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 23616223.5
+      },
+      "profit": {
+        "profitPerForge": -204023.5,
+        "profitPerHour": -8500.979166666666,
+        "ratio": 1.0115927298875707,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "DIVAN_CHESTPLATE",
+      "name": "Chestplate Of Divan",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "6",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 28794500,
+        "sellPriceWithTax": 28218610,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 25040007
+      },
+      "profit": {
+        "profitPerForge": 3178603,
+        "profitPerHour": 132441.79166666666,
+        "ratio": 1.1499397743778585,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DIVAN_LEGGINGS",
+      "name": "Leggings Of Divan",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "6",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 28249999.5,
+        "sellPriceWithTax": 27685000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 24565412.5
+      },
+      "profit": {
+        "profitPerForge": 3119587.5,
+        "profitPerHour": 129982.8125,
+        "ratio": 1.1499908458691666,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DIVAN_BOOTS",
+      "name": "Boots Of Divan",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "6",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 26922524,
+        "sellPriceWithTax": 26384074,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 23141629
+      },
+      "profit": {
+        "profitPerForge": 3242445,
+        "profitPerHour": 135101.875,
+        "ratio": 1.1633806764424406,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "AMBER_NECKLACE",
+      "name": "Amber Necklace",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 0,
+        "sellPriceWithTax": 0,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 71667566.60000001
+      },
+      "profit": {
+        "profitPerForge": -71667566.60000001,
+        "profitPerHour": -2986148.608333334,
+        "ratio": 0,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "SAPPHIRE_CLOAK",
+      "name": "Sapphire Cloak",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 82998999,
+        "sellPriceWithTax": 81339019,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 71335028.4
+      },
+      "profit": {
+        "profitPerForge": 10003990.599999994,
+        "profitPerHour": 416832.9416666664,
+        "ratio": 1.1635097211232062,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "JADE_BELT",
+      "name": "Jade Belt",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 85999999.5,
+        "sellPriceWithTax": 84280000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 70967132.4
+      },
+      "profit": {
+        "profitPerForge": 13312867.599999994,
+        "profitPerHour": 554702.8166666664,
+        "ratio": 1.211828583058261,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "AMETHYST_GAUNTLET",
+      "name": "Amethyst Gauntlet",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 80750000,
+        "sellPriceWithTax": 79135000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 71213470.2
+      },
+      "profit": {
+        "profitPerForge": 7921529.799999997,
+        "profitPerHour": 330063.7416666665,
+        "ratio": 1.1339146902014052,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GEMSTONE_CHAMBER",
+      "name": "Gemstone Chamber",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 9900000,
+        "sellPriceWithTax": 9702000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 9238630.4
+      },
+      "profit": {
+        "profitPerForge": 463369.5999999996,
+        "profitPerHour": 115842.3999999999,
+        "ratio": 1.0715874075880338,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DWARVEN_HANDWARMERS",
+      "name": "Dwarven Handwarmers",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "8",
+      "duration": 4,
+      "durationAdjusted": 4,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 38000000,
+        "sellPriceWithTax": 37240000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 33753636.5
+      },
+      "profit": {
+        "profitPerForge": 3486363.5,
+        "profitPerHour": 871590.875,
+        "ratio": 1.1258046225626681,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DWARVEN_METAL",
+      "name": "Dwarven Metal Talisman",
+      "rarity": "UNCOMMON",
+      "category": "FORGING",
+      "tier": "8",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 30799500,
+        "sellPriceWithTax": 30183510,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 28807248.000000004
+      },
+      "profit": {
+        "profitPerForge": 1376261.9999999963,
+        "profitPerHour": 57344.24999999985,
+        "ratio": 1.0691580119003383,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "DIVAN_PENDANT",
+      "name": "Pendant Of Divan",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "10",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 692495000,
+        "sellPriceWithTax": 678645100,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 607052406.8
+      },
+      "profit": {
+        "profitPerForge": 71592693.20000005,
+        "profitPerHour": 426146.9833333336,
+        "ratio": 1.1407499455448993,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "POWER_RELIC",
+      "name": "Relic Of Power",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "10",
+      "duration": 8,
+      "durationAdjusted": 8,
+      "soldOn": "NONE",
+      "prices": {
+        "sellPrice": 0,
+        "sellPriceWithTax": 0,
+        "source": "NONE",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 0
+      },
+      "profit": {
+        "profitPerForge": 0,
+        "profitPerHour": 0,
+        "ratio": 0,
+        "warnings": [
+          "No market source"
+        ]
+      }
+    },
+    {
+      "itemId": "DIAMONITE",
+      "name": "Diamonite",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 2393051.6,
+        "sellPriceWithTax": 2366130,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1870658.4000000001
+      },
+      "profit": {
+        "profitPerForge": 495471.59999999986,
+        "profitPerHour": 82578.59999999998,
+        "ratio": 1.2792563302845672,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "POCKET_ICEBERG",
+      "name": "Pocket Iceberg",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 662949.4,
+        "sellPriceWithTax": 655491,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 177658.5
+      },
+      "profit": {
+        "profitPerForge": 477832.5,
+        "profitPerHour": 79638.75,
+        "ratio": 3.7315940413771367,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PETRIFIED_STARFALL",
+      "name": "Petrified Starfall",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 2099949.7,
+        "sellPriceWithTax": 2076325,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1074944
+      },
+      "profit": {
+        "profitPerForge": 1001381,
+        "profitPerHour": 166896.83333333334,
+        "ratio": 1.953543347374375,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PURE_MITHRIL",
+      "name": "Pure Mithril",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 1230647.7,
+        "sellPriceWithTax": 1216803,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1067855.6
+      },
+      "profit": {
+        "profitPerForge": 148947.3999999999,
+        "profitPerHour": 24824.56666666665,
+        "ratio": 1.15244767176386,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "ROCK_GEMSTONE",
+      "name": "Dwarven Geode",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 6269989.5,
+        "sellPriceWithTax": 6199452,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5270316.800000001
+      },
+      "profit": {
+        "profitPerForge": 929135.1999999993,
+        "profitPerHour": 154855.86666666655,
+        "ratio": 1.1896798120371055,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_TESSERACT",
+      "name": "Titanium Tesseract",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 1491150.6,
+        "sellPriceWithTax": 1474375,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 673878.8999999999
+      },
+      "profit": {
+        "profitPerForge": 800496.1000000001,
+        "profitPerHour": 133416.0166666667,
+        "ratio": 2.2127871936634316,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GLEAMING_CRYSTAL",
+      "name": "Gleaming Crystal",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 81599993.9,
+        "sellPriceWithTax": 80681994,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 67060988.6
+      },
+      "profit": {
+        "profitPerForge": 13621005.399999999,
+        "profitPerHour": 2270167.5666666664,
+        "ratio": 1.2168027284345762,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "HOT_STUFF",
+      "name": "Scorched Topaz",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 3553402.8,
+        "sellPriceWithTax": 3513427,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 4033174.5
+      },
+      "profit": {
+        "profitPerForge": -519747.5,
+        "profitPerHour": -86624.58333333333,
+        "ratio": 0.8810436543224202,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "AMBER_MATERIAL",
+      "name": "Amber Material",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "6",
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 3412059.6,
+        "sellPriceWithTax": 3373674,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1892338.0999999999
+      },
+      "profit": {
+        "profitPerForge": 1481335.9000000001,
+        "profitPerHour": 246889.31666666668,
+        "ratio": 1.803091952754109,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "FRIGID_HUSK",
+      "name": "Frigid Husk",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 6,
+      "durationAdjusted": 6,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 8999999.8,
+        "sellPriceWithTax": 8898750,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 7871741.6
+      },
+      "profit": {
+        "profitPerForge": 1027008.4000000004,
+        "profitPerHour": 171168.06666666674,
+        "ratio": 1.1433301875661164,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "STARFALL_SEASONING",
+      "name": "Starfall Seasoning",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 2400000,
+        "sellPriceWithTax": 2352000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 1434065.6
+      },
+      "profit": {
+        "profitPerForge": 917934.3999999999,
+        "profitPerHour": 50996.35555555555,
+        "ratio": 1.6735636082477676,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GOBLIN_OMELETTE",
+      "name": "Goblin Omelette",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 999999,
+        "sellPriceWithTax": 989999,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 427862.39999999997
+      },
+      "profit": {
+        "profitPerForge": 562136.6000000001,
+        "profitPerHour": 31229.811111111117,
+        "ratio": 2.3371976598083872,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GOBLIN_OMELETTE_SPICY",
+      "name": "Spicy Goblin Omelette",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 8500000,
+        "sellPriceWithTax": 8330000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 6038180.4
+      },
+      "profit": {
+        "profitPerForge": 2291819.5999999996,
+        "profitPerHour": 127323.31111111109,
+        "ratio": 1.4077088521568517,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GOBLIN_OMELETTE_PESTO",
+      "name": "Pesto Goblin Omelette",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 6499000,
+        "sellPriceWithTax": 6369020,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 4218112.4
+      },
+      "profit": {
+        "profitPerForge": 2150907.5999999996,
+        "profitPerHour": 119494.86666666664,
+        "ratio": 1.5407365626387763,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GOBLIN_OMELETTE_SUNNY_SIDE",
+      "name": "Sunny Side Goblin Omelette",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 7200000,
+        "sellPriceWithTax": 7056000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5897554.300000001
+      },
+      "profit": {
+        "profitPerForge": 1158445.6999999993,
+        "profitPerHour": 64358.0944444444,
+        "ratio": 1.220845054364315,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GOBLIN_OMELETTE_BLUE_CHEESE",
+      "name": "Blue Cheese Goblin Omelette",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 115999999.5,
+        "sellPriceWithTax": 113680000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 116852514.79999998
+      },
+      "profit": {
+        "profitPerForge": -3172514.799999982,
+        "profitPerHour": -176250.82222222124,
+        "ratio": 0.9927043478571334,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "TUNGSTEN_KEYCHAIN",
+      "name": "Tungsten Regulator",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "8",
+      "duration": 18,
+      "durationAdjusted": 18,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 82910000,
+        "sellPriceWithTax": 81251800,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 97063572.1
+      },
+      "profit": {
+        "profitPerForge": -15811772.099999994,
+        "profitPerHour": -878431.783333333,
+        "ratio": 0.8541824518325141,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "MITHRIL_DRILL_ENGINE",
+      "name": "Mithril-Plated Drill Engine",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 16499999,
+        "sellPriceWithTax": 16169999,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 12385102.6
+      },
+      "profit": {
+        "profitPerForge": 3784896.4000000004,
+        "profitPerHour": 157704.0166666667,
+        "ratio": 1.3322456448604634,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_DRILL_ENGINE",
+      "name": "Titanium-Plated Drill Engine",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 28899999,
+        "sellPriceWithTax": 28321999,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 28352163.200000003
+      },
+      "profit": {
+        "profitPerForge": -30164.20000000298,
+        "profitPerHour": null,
+        "ratio": 1.0193225397348162,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "RUBY_POLISHED_DRILL_ENGINE",
+      "name": "Ruby-Polished Drill Engine",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 55859999.5,
+        "sellPriceWithTax": 54742800,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 63829347.8
+      },
+      "profit": {
+        "profitPerForge": -9086547.799999997,
+        "profitPerHour": null,
+        "ratio": 0.8751460170802497,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+      "name": "Sapphire-Polished Drill Engine",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "8",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 120000000,
+        "sellPriceWithTax": 117600000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 140340762.5
+      },
+      "profit": {
+        "profitPerForge": -22740762.5,
+        "profitPerHour": null,
+        "ratio": 0.8550616218862286,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "AMBER_POLISHED_DRILL_ENGINE",
+      "name": "Amber-Polished Drill Engine",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "9",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 229200000,
+        "sellPriceWithTax": 224616000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 259644196.7
+      },
+      "profit": {
+        "profitPerForge": -35028196.69999999,
+        "profitPerHour": null,
+        "ratio": 0.8827464773450105,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "MITHRIL_FUEL_TANK",
+      "name": "Mithril-Infused Fuel Tank",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 24,
+      "durationAdjusted": 24,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 11500000,
+        "sellPriceWithTax": 11270000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 9882028
+      },
+      "profit": {
+        "profitPerForge": 1387972,
+        "profitPerHour": 57832.166666666664,
+        "ratio": 1.1637287406997834,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TITANIUM_FUEL_TANK",
+      "name": "Titanium-Infused Fuel Tank",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 24500000,
+        "sellPriceWithTax": 24010000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 22657827
+      },
+      "profit": {
+        "profitPerForge": 1352173,
+        "profitPerHour": null,
+        "ratio": 1.0813040456174372,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "GEMSTONE_FUEL_TANK",
+      "name": "Gemstone Fuel Tank",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 50950000,
+        "sellPriceWithTax": 49931000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 47604706.4
+      },
+      "profit": {
+        "profitPerForge": 2326293.6000000015,
+        "profitPerHour": null,
+        "ratio": 1.0702723292081895,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECTLY_CUT_FUEL_TANK",
+      "name": "Perfectly-Cut Fuel Tank",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "8",
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 105950000,
+        "sellPriceWithTax": 103831000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 124115309.19999999
+      },
+      "profit": {
+        "profitPerForge": -20284309.199999988,
+        "profitPerHour": null,
+        "ratio": 0.8536416714659404,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "PERFECT_AMBER_GEM",
+      "name": "Perfect Amber Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 19404128.2,
+        "sellPriceWithTax": 19185832,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 15969028.5
+      },
+      "profit": {
+        "profitPerForge": 3216803.5,
+        "profitPerHour": 160840.175,
+        "ratio": 1.2151101239502453,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_AMETHYST_GEM",
+      "name": "Perfect Amethyst Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 18054896.8,
+        "sellPriceWithTax": 17851779,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 14833787.5
+      },
+      "profit": {
+        "profitPerForge": 3017991.5,
+        "profitPerHour": 150899.575,
+        "ratio": 1.2171467873596005,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_JADE_GEM",
+      "name": "Perfect Jade Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 17572040.4,
+        "sellPriceWithTax": 17374355,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 14217943
+      },
+      "profit": {
+        "profitPerForge": 3156412,
+        "profitPerHour": 157820.6,
+        "ratio": 1.2359059534842698,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_JASPER_GEM",
+      "name": "Perfect Jasper Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 44000000,
+        "sellPriceWithTax": 43505000,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 31026304
+      },
+      "profit": {
+        "profitPerForge": 12478696,
+        "profitPerHour": 623934.8,
+        "ratio": 1.4181515142764023,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_OPAL_GEM",
+      "name": "Perfect Opal Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 26763787.1,
+        "sellPriceWithTax": 26462694,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 13362441
+      },
+      "profit": {
+        "profitPerForge": 13100253,
+        "profitPerHour": 655012.65,
+        "ratio": 2.002911526419462,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_RUBY_GEM",
+      "name": "Perfect Ruby Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 14201189.9,
+        "sellPriceWithTax": 14041427,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 12332235
+      },
+      "profit": {
+        "profitPerForge": 1709192,
+        "profitPerHour": 85459.6,
+        "ratio": 1.1515503799595126,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_SAPPHIRE_GEM",
+      "name": "Perfect Sapphire Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 18322952.3,
+        "sellPriceWithTax": 18116819,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 15137683
+      },
+      "profit": {
+        "profitPerForge": 2979136,
+        "profitPerHour": 148956.8,
+        "ratio": 1.210419870729226,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_TOPAZ_GEM",
+      "name": "Perfect Topaz Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 27176716.8,
+        "sellPriceWithTax": 26870979,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 19791408.5
+      },
+      "profit": {
+        "profitPerForge": 7079570.5,
+        "profitPerHour": 353978.525,
+        "ratio": 1.373157286910631,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_ONYX_GEM",
+      "name": "Perfect Onyx Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 14845216.4,
+        "sellPriceWithTax": 14678208,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 9539284
+      },
+      "profit": {
+        "profitPerForge": 5138924,
+        "profitPerHour": 256946.2,
+        "ratio": 1.5562191460071846,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_CITRINE_GEM",
+      "name": "Perfect Citrine Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 10693315,
+        "sellPriceWithTax": 10573015,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 7127566.5
+      },
+      "profit": {
+        "profitPerForge": 3445448.5,
+        "profitPerHour": 172272.425,
+        "ratio": 1.500275725242269,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_AQUAMARINE_GEM",
+      "name": "Perfect Aquamarine Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 13516163.6,
+        "sellPriceWithTax": 13364107,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 9820840
+      },
+      "profit": {
+        "profitPerForge": 3543267,
+        "profitPerHour": 177163.35,
+        "ratio": 1.3762736792372139,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PERFECT_PERIDOT_GEM",
+      "name": "Perfect Peridot Gemstone",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 25834378.1,
+        "sellPriceWithTax": 25543741,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 20349960
+      },
+      "profit": {
+        "profitPerForge": 5193781,
+        "profitPerHour": 259689.05,
+        "ratio": 1.2695051046783385,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "BEJEWELED_COLLAR",
+      "name": "Bejeweled Collar",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 2,
+      "durationAdjusted": 2,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 2999999,
+        "sellPriceWithTax": 2939999,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2267647.5
+      },
+      "profit": {
+        "profitPerForge": 672351.5,
+        "profitPerHour": 336175.75,
+        "ratio": 1.322956500073314,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_MOLE",
+      "name": "Mole Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 72,
+      "durationAdjusted": 72,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 4899996.5,
+        "sellPriceWithTax": 4801997,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 461641.2
+      },
+      "profit": {
+        "profitPerForge": 4340355.8,
+        "profitPerHour": 60282.71944444444,
+        "ratio": 10.614296340967833,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_AMMONITE",
+      "name": "Ammonite Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 72,
+      "durationAdjusted": 72,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 1300000,
+        "sellPriceWithTax": 1274000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 384321.8
+      },
+      "profit": {
+        "profitPerForge": 889678.2,
+        "profitPerHour": 12356.641666666666,
+        "ratio": 3.382581992486505,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_PENGUIN",
+      "name": "Penguin Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 5950000,
+        "sellPriceWithTax": 5831000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2389632.4
+      },
+      "profit": {
+        "profitPerForge": 3441367.6,
+        "profitPerHour": 20484.33095238095,
+        "ratio": 2.489922717820532,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_TYRANNOSAURUS",
+      "name": "T-Rex Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 4860000,
+        "sellPriceWithTax": 4762800,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2142557.5
+      },
+      "profit": {
+        "profitPerForge": 2620242.5,
+        "profitPerHour": 15596.681547619048,
+        "ratio": 2.268317186353225,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_SPINOSAURUS",
+      "name": "Spinosaurus Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 6000000,
+        "sellPriceWithTax": 5880000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2287184
+      },
+      "profit": {
+        "profitPerForge": 3592816,
+        "profitPerHour": 21385.809523809523,
+        "ratio": 2.623313209606223,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_GOBLIN",
+      "name": "Goblin Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 9861114,
+        "sellPriceWithTax": 9663892,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3893803.9000000004
+      },
+      "profit": {
+        "profitPerForge": 5770088.1,
+        "profitPerHour": 34345.7625,
+        "ratio": 2.5325142850671036,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_ANKYLOSAURUS",
+      "name": "Ankylosaurus Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 9000000,
+        "sellPriceWithTax": 8820000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2892485.8000000003
+      },
+      "profit": {
+        "profitPerForge": 5927514.199999999,
+        "profitPerHour": 35282.82261904761,
+        "ratio": 3.1115105215036833,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "PET_MAMMOTH",
+      "name": "Mammoth Pet",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 168,
+      "durationAdjusted": 168,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 9000000,
+        "sellPriceWithTax": 8820000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2114854.7
+      },
+      "profit": {
+        "profitPerForge": 6705145.3,
+        "profitPerHour": 39911.57916666666,
+        "ratio": 4.255611508440745,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "BEACON_2",
+      "name": "Beacon II",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 20,
+      "durationAdjusted": 20,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 6500000,
+        "sellPriceWithTax": 6370000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 5669639
+      },
+      "profit": {
+        "profitPerForge": 700361,
+        "profitPerHour": 35018.05,
+        "ratio": 1.1464574728655563,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "BEACON_3",
+      "name": "Beacon III",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "3",
+      "duration": 30,
+      "durationAdjusted": 30,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 17999999.5,
+        "sellPriceWithTax": 17640000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 11839278
+      },
+      "profit": {
+        "profitPerForge": 5800722,
+        "profitPerHour": 193357.4,
+        "ratio": 1.520362939361674,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "BEACON_4",
+      "name": "Beacon IV",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "4",
+      "duration": 40,
+      "durationAdjusted": 40,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 29000000,
+        "sellPriceWithTax": 28420000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 28957045.8
+      },
+      "profit": {
+        "profitPerForge": -537045.8000000007,
+        "profitPerHour": -13426.145000000019,
+        "ratio": 1.0014833764568623,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "BEACON_5",
+      "name": "Beacon V",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "5",
+      "duration": 50,
+      "durationAdjusted": 50,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 55000000,
+        "sellPriceWithTax": 53900000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 51749563.5
+      },
+      "profit": {
+        "profitPerForge": 2150436.5,
+        "profitPerHour": 43008.73,
+        "ratio": 1.0628108969460197,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "FORGE_TRAVEL_SCROLL",
+      "name": "Travel Scroll To The Dwarven Forge",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 5,
+      "durationAdjusted": 5,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 499999,
+        "sellPriceWithTax": 494999,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 46595.2
+      },
+      "profit": {
+        "profitPerForge": 448403.8,
+        "profitPerHour": 89680.76,
+        "ratio": 10.730697582583614,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "BASE_CAMP_TRAVEL_SCROLL",
+      "name": "Travel Scroll To The Dwarven Base Camp",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "7",
+      "duration": 10,
+      "durationAdjusted": 10,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 4780000,
+        "sellPriceWithTax": 4684400,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2412428
+      },
+      "profit": {
+        "profitPerForge": 2271972,
+        "profitPerHour": 227197.2,
+        "ratio": 1.9814062844569869,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "POWER_CRYSTAL",
+      "name": "Power Crystal",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": "2",
+      "duration": 2,
+      "durationAdjusted": 2,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 789985.3,
+        "sellPriceWithTax": 781098,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 537472
+      },
+      "profit": {
+        "profitPerForge": 243626,
+        "profitPerHour": 121813,
+        "ratio": 1.4698166602167184,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "TUNGSTEN_KEY",
+      "name": "Tungsten Key",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 3381358.5,
+        "sellPriceWithTax": 3343318,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3186118.7
+      },
+      "profit": {
+        "profitPerForge": 157199.2999999998,
+        "profitPerHour": null,
+        "ratio": 1.0612782568333063,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "UMBER_KEY",
+      "name": "Umber Key",
+      "rarity": "EPIC",
+      "category": "FORGING",
+      "tier": 0,
+      "duration": 0.0083,
+      "durationAdjusted": 0.0083,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 3587109.7,
+        "sellPriceWithTax": 3546755,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 3224576.3
+      },
+      "profit": {
+        "profitPerForge": 322178.7000000002,
+        "profitPerHour": null,
+        "ratio": 1.112428228167527,
+        "warnings": []
+      }
+    },
+    {
+      "itemId": "SKELETON_KEY",
+      "name": "Skeleton Key",
+      "rarity": "LEGENDARY",
+      "category": "FORGING",
+      "tier": "10",
+      "duration": 0.5,
+      "durationAdjusted": 0.5,
+      "soldOn": "BAZAAR",
+      "prices": {
+        "sellPrice": 35214911.4,
+        "sellPriceWithTax": 34818744,
+        "source": "BAZAAR",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 35438398.099999994
+      },
+      "profit": {
+        "profitPerForge": -619654.099999994,
+        "profitPerHour": -1239308.199999988,
+        "ratio": 0.9936936568247424,
+        "warnings": [
+          "Below break-even"
+        ]
+      }
+    },
+    {
+      "itemId": "PORTABLE_CAMPFIRE",
+      "name": "Portable Campfire",
+      "rarity": "RARE",
+      "category": "FORGING",
+      "tier": "8",
+      "duration": 0.5,
+      "durationAdjusted": 0.5,
+      "soldOn": "AH",
+      "prices": {
+        "sellPrice": 3600000,
+        "sellPriceWithTax": 3528000,
+        "source": "AH",
+        "activeAuctions": null
+      },
+      "cost": {
+        "totalCost": 2862552.3000000003
+      },
+      "profit": {
+        "profitPerForge": 665447.6999999997,
+        "profitPerHour": 1330895.3999999994,
+        "ratio": 1.2576189437656735,
+        "warnings": []
+      }
+    }
+  ],
+  "lastUpdate": "2026-06-12T10:37:29.802Z",
+  "isRefreshing": true,
+  "progress": {
+    "current": 5,
+    "total": 167,
+    "status": "fetching (5/167)"
+  }
+}

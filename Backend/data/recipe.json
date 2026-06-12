@@ -1,0 +1,3656 @@
+{
+  "forge_items": [
+    {
+      "section": "REFINING",
+      "items": [
+        {
+          "name": "Refined Diamond",
+          "id": "REFINED_DIAMOND",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 8,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Diamond Block",
+                "id": "ENCHANTED_DIAMOND_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Diamond",
+                    "id": "ENCHANTED_DIAMOND",
+                    "source": "BAZAAR",
+                    "quantity": 320
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Refined Mithril",
+          "id": "REFINED_MITHRIL",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Mithril",
+                "id": "ENCHANTED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 160,
+                "sub_ingredients": [
+                  {
+                    "item": "Mithril",
+                    "id": "MITHRIL_ORE",
+                    "source": "BAZAAR",
+                    "quantity": 25600
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Refined Titanium",
+          "id": "REFINED_TITANIUM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 12,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Titanium",
+                "id": "ENCHANTED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 16,
+                "sub_ingredients": [
+                  {
+                    "item": "Titanium",
+                    "id": "TITANIUM_ORE",
+                    "source": "BAZAAR",
+                    "quantity": 2560
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Refined Umber",
+          "id": "REFINED_UMBER",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 1,
+          "requirements": ["Umber Collection III", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Umber",
+                "id": "ENCHANTED_UMBER",
+                "source": "BAZAAR",
+                "quantity": 160,
+                "sub_ingredients": [
+                  {
+                    "item": "Umber",
+                    "id": "UMBER",
+                    "source": "BAZAAR",
+                    "quantity": 25600
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Refined Tungsten",
+          "id": "REFINED_TUNGSTEN",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 1,
+          "requirements": ["Tungsten Collection III", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Tungsten",
+                "id": "ENCHANTED_TUNGSTEN",
+                "source": "BAZAAR",
+                "quantity": 160,
+                "sub_ingredients": [
+                  {
+                    "item": "Tungsten",
+                    "id": "TUNGSTEN",
+                    "source": "BAZAAR",
+                    "quantity": 25600
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "FORGING",
+      "items": [
+        {
+          "name": "Bejeweled Handle",
+          "id": "BEJEWELED_HANDLE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glacite Jewel",
+                "id": "GLACITE_JEWEL",
+                "source": "BAZAAR",
+                "quantity": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Drill Motor",
+          "id": "DRILL_ENGINE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 30,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Treasurite",
+                "id": "TREASURITE",
+                "source": "BAZAAR",
+                "quantity": 10
+              },
+              {
+                "item": "Enchanted Iron Block",
+                "id": "ENCHANTED_IRON_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Iron",
+                    "id": "ENCHANTED_IRON",
+                    "source": "BAZAAR",
+                    "quantity": 160
+                  }
+                ]
+              },
+              {
+                "item": "Enchanted Redstone Block",
+                "id": "ENCHANTED_REDSTONE_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 3,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Redstone",
+                    "id": "ENCHANTED_REDSTONE",
+                    "source": "BAZAAR",
+                    "quantity": 480
+                  }
+                ]
+              },
+              {
+                "item": "Golden Plate",
+                "id": "GOLDEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Refined Diamond",
+                    "id": "REFINED_DIAMOND",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  },
+                  {
+                    "item": "Enchanted Gold Block",
+                    "id": "ENCHANTED_GOLD_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 2,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Gold",
+                        "id": "ENCHANTED_GOLD",
+                        "source": "BAZAAR",
+                        "quantity": 320
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Glacite Jewel",
+                    "id": "GLACITE_JEWEL",
+                    "source": "BAZAAR",
+                    "quantity": 5
+                  }
+                ]
+              },
+              {
+                "item": "Glacite Jewel",
+                "id": "GLACITE_JEWEL",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fuel Canister",
+          "id": "FUEL_TANK",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 10,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Coal Block",
+                "id": "ENCHANTED_COAL_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Coal",
+                    "id": "ENCHANTED_COAL",
+                    "source": "BAZAAR",
+                    "quantity": 320
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Gemstone Mixture",
+          "id": "GEMSTONE_MIXTURE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 4,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Fine Jade Gemstone",
+                "id": "FINE_JADE_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Fine Amber Gemstone",
+                "id": "FINE_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Fine Amethyst Gemstone",
+                "id": "FINE_AMETHYST_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Fine Sapphire Gemstone",
+                "id": "FINE_SAPPHIRE_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Sludge Juice",
+                "id": "SLUDGE_JUICE",
+                "source": "BAZAAR",
+                "quantity": 320
+              }
+            ]
+          }
+        },
+        {
+          "name": "Glacite Amalgamation",
+          "id": "GLACITE_AMALGAMATION",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 4,
+          "requirements": ["Glacite Collection III", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Fine Onyx Gemstone",
+                "id": "FINE_ONYX_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Fine Citrine Gemstone",
+                "id": "FINE_CITRINE_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Fine Peridot Gemstone",
+                "id": "FINE_PERIDOT_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Fine Aquamarine Gemstone",
+                "id": "FINE_AQUAMARINE_GEM",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Enchanted Glacite",
+                "id": "ENCHANTED_GLACITE",
+                "source": "BAZAAR",
+                "quantity": 256
+              }
+            ]
+          }
+        },
+        {
+          "name": "Golden Plate",
+          "id": "GOLDEN_PLATE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Diamond",
+                "id": "REFINED_DIAMOND",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Enchanted Gold Block",
+                "id": "ENCHANTED_GOLD_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Gold",
+                    "id": "ENCHANTED_GOLD",
+                    "source": "BAZAAR",
+                    "quantity": 320
+                  }
+                ]
+              },
+              {
+                "item": "Glacite Jewel",
+                "id": "GLACITE_JEWEL",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mithril Plate",
+          "id": "MITHRIL_PLATE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Golden Plate",
+                "id": "GOLDEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Refined Diamond",
+                    "id": "REFINED_DIAMOND",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  },
+                  {
+                    "item": "Enchanted Gold Block",
+                    "id": "ENCHANTED_GOLD_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 2,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Gold",
+                        "id": "ENCHANTED_GOLD",
+                        "source": "BAZAAR",
+                        "quantity": 320
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Glacite Jewel",
+                    "id": "GLACITE_JEWEL",
+                    "source": "BAZAAR",
+                    "quantity": 5
+                  }
+                ]
+              },
+              {
+                "item": "Enchanted Iron Block",
+                "id": "ENCHANTED_IRON_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tungsten Plate",
+          "id": "TUNGSTEN_PLATE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 3,
+          "requirements": ["Tungsten Collection VI", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Tungsten",
+                "id": "REFINED_TUNGSTEN",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Glacite Amalgamation",
+                "id": "GLACITE_AMALGAMATION",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Umber Plate",
+          "id": "UMBER_PLATE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 3,
+          "requirements": ["Umber Collection VI", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Umber",
+                "id": "REFINED_UMBER",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Glacite Amalgamation",
+                "id": "GLACITE_AMALGAMATION",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Plate",
+          "id": "PERFECT_PLATE",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 0.5,
+          "requirements": ["Heart of the Mountain Tier 10"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Umber Plate",
+                "id": "UMBER_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Refined Umber",
+                    "id": "REFINED_UMBER",
+                    "source": "BAZAAR",
+                    "quantity": 4
+                  },
+                  {
+                    "item": "Glacite Amalgamation",
+                    "id": "GLACITE_AMALGAMATION",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  }
+                ]
+              },
+              {
+                "item": "Tungsten Plate",
+                "id": "TUNGSTEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Refined Tungsten",
+                    "id": "REFINED_TUNGSTEN",
+                    "source": "BAZAAR",
+                    "quantity": 4
+                  },
+                  {
+                    "item": "Glacite Amalgamation",
+                    "id": "GLACITE_AMALGAMATION",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  }
+                ]
+              },
+              {
+                "item": "Mithril Plate",
+                "id": "MITHRIL_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Refined Titanium",
+                    "id": "REFINED_TITANIUM",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  },
+                  {
+                    "item": "Refined Mithril",
+                    "id": "REFINED_MITHRIL",
+                    "source": "BAZAAR",
+                    "quantity": 5
+                  },
+                  {
+                    "item": "Golden Plate",
+                    "id": "GOLDEN_PLATE",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  },
+                  {
+                    "item": "Enchanted Iron Block",
+                    "id": "ENCHANTED_IRON_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 1,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Iron",
+                        "id": "ENCHANTED_IRON",
+                        "source": "BAZAAR",
+                        "quantity": 160
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "TOOLS",
+      "items": [
+        {
+          "name": "Mithril Drill SX-R226",
+          "id": "MITHRIL_DRILL_1",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 4,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 3
+              },
+              {
+                "item": "Fuel Canister",
+                "id": "FUEL_TANK",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Coal Block",
+                    "id": "ENCHANTED_COAL_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 2,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Coal",
+                        "id": "ENCHANTED_COAL",
+                        "source": "BAZAAR",
+                        "quantity": 320
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Treasurite",
+                    "id": "TREASURITE",
+                    "source": "BAZAAR",
+                    "quantity": 10
+                  },
+                  {
+                    "item": "Enchanted Iron Block",
+                    "id": "ENCHANTED_IRON_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 1,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Iron",
+                        "id": "ENCHANTED_IRON",
+                        "source": "BAZAAR",
+                        "quantity": 160
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Enchanted Redstone Block",
+                    "id": "ENCHANTED_REDSTONE_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 3,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Redstone",
+                        "id": "ENCHANTED_REDSTONE",
+                        "source": "BAZAAR",
+                        "quantity": 480
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Golden Plate",
+                    "id": "GOLDEN_PLATE",
+                    "source": "BAZAAR",
+                    "quantity": 1,
+                    "sub_ingredients": [
+                      {
+                        "item": "Refined Diamond",
+                        "id": "REFINED_DIAMOND",
+                        "source": "BAZAAR",
+                        "quantity": 1
+                      },
+                      {
+                        "item": "Enchanted Gold Block",
+                        "id": "ENCHANTED_GOLD_BLOCK",
+                        "source": "BAZAAR",
+                        "quantity": 2,
+                        "sub_ingredients": [
+                          {
+                            "item": "Enchanted Gold",
+                            "id": "ENCHANTED_GOLD",
+                            "source": "BAZAAR",
+                            "quantity": 320
+                          }
+                        ]
+                      },
+                      {
+                        "item": "Glacite Jewel",
+                        "id": "GLACITE_JEWEL",
+                        "source": "BAZAAR",
+                        "quantity": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ruby Drill TX-15",
+          "id": "GEMSTONE_DRILL_1",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 4,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Fine Ruby Gemstone",
+                "id": "FINE_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 6
+              },
+              {
+                "item": "Fuel Canister",
+                "id": "FUEL_TANK",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Coal Block",
+                    "id": "ENCHANTED_COAL_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 2,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Coal",
+                        "id": "ENCHANTED_COAL",
+                        "source": "BAZAAR",
+                        "quantity": 320
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Treasurite",
+                    "id": "TREASURITE",
+                    "source": "BAZAAR",
+                    "quantity": 10
+                  },
+                  {
+                    "item": "Enchanted Iron Block",
+                    "id": "ENCHANTED_IRON_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 1,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Iron",
+                        "id": "ENCHANTED_IRON",
+                        "source": "BAZAAR",
+                        "quantity": 160
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Enchanted Redstone Block",
+                    "id": "ENCHANTED_REDSTONE_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 3,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Redstone",
+                        "id": "ENCHANTED_REDSTONE",
+                        "source": "BAZAAR",
+                        "quantity": 480
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Golden Plate",
+                    "id": "GOLDEN_PLATE",
+                    "source": "BAZAAR",
+                    "quantity": 1,
+                    "sub_ingredients": [
+                      {
+                        "item": "Refined Diamond",
+                        "id": "REFINED_DIAMOND",
+                        "source": "BAZAAR",
+                        "quantity": 1
+                      },
+                      {
+                        "item": "Enchanted Gold Block",
+                        "id": "ENCHANTED_GOLD_BLOCK",
+                        "source": "BAZAAR",
+                        "quantity": 2,
+                        "sub_ingredients": [
+                          {
+                            "item": "Enchanted Gold",
+                            "id": "ENCHANTED_GOLD",
+                            "source": "BAZAAR",
+                            "quantity": 320
+                          }
+                        ]
+                      },
+                      {
+                        "item": "Glacite Jewel",
+                        "id": "GLACITE_JEWEL",
+                        "source": "BAZAAR",
+                        "quantity": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Topaz Rod",
+          "id": "POLISHED_TOPAZ_ROD",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 12,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Topaz Gemstone",
+                "id": "FLAWLESS_TOPAZ_GEM",
+                "source": "BAZAAR",
+                "quantity": 2
+              },
+              {
+                "item": "Bejeweled Handle",
+                "id": "BEJEWELED_HANDLE",
+                "source": "BAZAAR",
+                "quantity": 3
+              },
+              {
+                "item": "Glacite Jewel",
+                "id": "GLACITE_JEWEL",
+                "source": "BAZAAR",
+                "quantity": 9
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Drill DR-X355",
+          "id": "TITANIUM_DRILL_1",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 4,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 8
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 8
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Treasurite",
+                    "id": "TREASURITE",
+                    "source": "BAZAAR",
+                    "quantity": 10
+                  },
+                  {
+                    "item": "Enchanted Iron Block",
+                    "id": "ENCHANTED_IRON_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 1,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Iron",
+                        "id": "ENCHANTED_IRON",
+                        "source": "BAZAAR",
+                        "quantity": 160
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Enchanted Redstone Block",
+                    "id": "ENCHANTED_REDSTONE_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 3,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Redstone",
+                        "id": "ENCHANTED_REDSTONE",
+                        "source": "BAZAAR",
+                        "quantity": 480
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Golden Plate",
+                    "id": "GOLDEN_PLATE",
+                    "source": "BAZAAR",
+                    "quantity": 1
+                  }
+                ]
+              },
+              {
+                "item": "Fuel Canister",
+                "id": "FUEL_TANK",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Coal Block",
+                    "id": "ENCHANTED_COAL_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 2,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Coal",
+                        "id": "ENCHANTED_COAL",
+                        "source": "BAZAAR",
+                        "quantity": 320
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "item": "Golden Plate",
+                "id": "GOLDEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 6,
+                "sub_ingredients": [
+                  {
+                    "item": "Refined Diamond",
+                    "id": "REFINED_DIAMOND",
+                    "source": "BAZAAR",
+                    "quantity": 6
+                  },
+                  {
+                    "item": "Enchanted Gold Block",
+                    "id": "ENCHANTED_GOLD_BLOCK",
+                    "source": "BAZAAR",
+                    "quantity": 12,
+                    "sub_ingredients": [
+                      {
+                        "item": "Enchanted Gold",
+                        "id": "ENCHANTED_GOLD",
+                        "source": "BAZAAR",
+                        "quantity": 1920
+                      }
+                    ]
+                  },
+                  {
+                    "item": "Glacite Jewel",
+                    "id": "GLACITE_JEWEL",
+                    "source": "BAZAAR",
+                    "quantity": 30
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Chisel",
+          "id": "CHISEL",
+          "source": "AH",
+          "rarity": "COMMON",
+          "duration": 4,
+          "requirements": ["Tungsten Collection I", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Bejeweled Handle",
+                "id": "BEJEWELED_HANDLE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Glacite Jewel",
+                    "id": "GLACITE_JEWEL",
+                    "source": "BAZAAR",
+                    "quantity": 3
+                  }
+                ]
+              },
+              {
+                "item": "Tungsten",
+                "id": "TUNGSTEN",
+                "source": "BAZAAR",
+                "quantity": 64
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "GEAR",
+      "items": [
+        {
+          "name": "Mithril Necklace",
+          "id": "MITHRIL_NECKLACE",
+          "source": "AH",
+          "rarity": "UNCOMMON",
+          "duration": 1,
+          "requirements": ["Heart of the Mountain Tier 1"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Mithril",
+                "id": "ENCHANTED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mithril Cloak",
+          "id": "MITHRIL_CLOAK",
+          "source": "AH",
+          "rarity": "UNCOMMON",
+          "duration": 1,
+          "requirements": ["Heart of the Mountain Tier 1"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Mithril",
+                "id": "ENCHANTED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mithril Belt",
+          "id": "MITHRIL_BELT",
+          "source": "AH",
+          "rarity": "UNCOMMON",
+          "duration": 1,
+          "requirements": ["Heart of the Mountain Tier 1"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Mithril",
+                "id": "ENCHANTED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mithril Gauntlet",
+          "id": "MITHRIL_GAUNTLET",
+          "source": "AH",
+          "rarity": "UNCOMMON",
+          "duration": 1,
+          "requirements": ["Heart of the Mountain Tier 1"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Mithril",
+                "id": "ENCHANTED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Necklace",
+          "id": "TITANIUM_NECKLACE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 4.5,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mineral",
+                "id": "REFINED_MINERAL",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Mithril Necklace",
+                "id": "MITHRIL_NECKLACE",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Cloak",
+          "id": "TITANIUM_CLOAK",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 4.5,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mineral",
+                "id": "REFINED_MINERAL",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Mithril Cloak",
+                "id": "MITHRIL_CLOAK",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Belt",
+          "id": "TITANIUM_BELT",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 4.5,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mineral",
+                "id": "REFINED_MINERAL",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Mithril Belt",
+                "id": "MITHRIL_BELT",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Gauntlet",
+          "id": "TITANIUM_GAUNTLET",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 4.5,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mineral",
+                "id": "REFINED_MINERAL",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Mithril Gauntlet",
+                "id": "MITHRIL_GAUNTLET",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Talisman",
+          "id": "TITANIUM_TALISMAN",
+          "source": "AH",
+          "rarity": "UNCOMMON",
+          "duration": 14,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 2
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Ring",
+          "id": "TITANIUM_RING",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 6
+              },
+              {
+                "item": "Titanium Talisman",
+                "id": "TITANIUM_TALISMAN",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Artifact",
+          "id": "TITANIUM_ARTIFACT",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 36,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 12
+              },
+              {
+                "item": "Titanium Ring",
+                "id": "TITANIUM_RING",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Relic",
+          "id": "TITANIUM_RELIC",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 72,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 20
+              },
+              {
+                "item": "Titanium Artifact",
+                "id": "TITANIUM_ARTIFACT",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Divan's Powder Coating",
+          "id": "DIVAN_POWDER_COATING",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 36,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glossy Gemstone",
+                "id": "GLOSSY_GEMSTONE",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Refined Mineral",
+                "id": "REFINED_MINERAL",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Divan Fragment",
+                "id": "DIVAN_FRAGMENT",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Enchanted Gold Block",
+                "id": "ENCHANTED_GOLD_BLOCK",
+                "source": "BAZAAR",
+                "quantity": 16,
+                "sub_ingredients": [
+                  {
+                    "item": "Enchanted Gold",
+                    "id": "ENCHANTED_GOLD",
+                    "source": "BAZAAR",
+                    "quantity": 2560
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Helmet Of Divan",
+          "id": "DIVAN_HELMET",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 6"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Ruby Gemstone",
+                "id": "FLAWLESS_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Divan Fragment",
+                "id": "DIVAN_FRAGMENT",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Chestplate Of Divan",
+          "id": "DIVAN_CHESTPLATE",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 6"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Ruby Gemstone",
+                "id": "FLAWLESS_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Divan Fragment",
+                "id": "DIVAN_FRAGMENT",
+                "source": "BAZAAR",
+                "quantity": 8
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Leggings Of Divan",
+          "id": "DIVAN_LEGGINGS",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 6"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Ruby Gemstone",
+                "id": "FLAWLESS_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Divan Fragment",
+                "id": "DIVAN_FRAGMENT",
+                "source": "BAZAAR",
+                "quantity": 7
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Boots Of Divan",
+          "id": "DIVAN_BOOTS",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 6"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Ruby Gemstone",
+                "id": "FLAWLESS_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Divan Fragment",
+                "id": "DIVAN_FRAGMENT",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Amber Necklace",
+          "id": "AMBER_NECKLACE",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glossy Gemstone",
+                "id": "GLOSSY_GEMSTONE",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Flawless Amber Gemstone",
+                "id": "FLAWLESS_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Amber Gemstone",
+                    "id": "FINE_AMBER_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 160
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sapphire Cloak",
+          "id": "SAPPHIRE_CLOAK",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glossy Gemstone",
+                "id": "GLOSSY_GEMSTONE",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Flawless Sapphire Gemstone",
+                "id": "FLAWLESS_SAPPHIRE_GEM",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Sapphire Gemstone",
+                    "id": "FINE_SAPPHIRE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 160
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Jade Belt",
+          "id": "JADE_BELT",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glossy Gemstone",
+                "id": "GLOSSY_GEMSTONE",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Flawless Jade Gemstone",
+                "id": "FLAWLESS_JADE_GEM",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Jade Gemstone",
+                    "id": "FINE_JADE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 160
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Amethyst Gauntlet",
+          "id": "AMETHYST_GAUNTLET",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glossy Gemstone",
+                "id": "GLOSSY_GEMSTONE",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Flawless Amethyst Gemstone",
+                "id": "FLAWLESS_AMETHYST_GEM",
+                "source": "BAZAAR",
+                "quantity": 2,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Amethyst Gemstone",
+                    "id": "FINE_AMETHYST_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 160
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Gemstone Chamber",
+          "id": "GEMSTONE_CHAMBER",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 4,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Worm Membrane",
+                "id": "WORM_MEMBRANE",
+                "source": "BAZAAR",
+                "quantity": 100
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Coins",
+                "id": "COINS",
+                "source": "COINS",
+                "quantity": 25000
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dwarven Handwarmers",
+          "id": "DWARVEN_HANDWARMERS",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 4,
+          "requirements": ["Heart of the Mountain Tier 8"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Jade Gemstone",
+                "id": "FLAWLESS_JADE_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Jade Gemstone",
+                    "id": "FINE_JADE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Flawless Amber Gemstone",
+                "id": "FLAWLESS_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Amber Gemstone",
+                    "id": "FINE_AMBER_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Tungsten Plate",
+                "id": "TUNGSTEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Umber Plate",
+                "id": "UMBER_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dwarven Metal Talisman",
+          "id": "DWARVEN_METAL",
+          "source": "AH",
+          "rarity": "UNCOMMON",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 8"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Umber",
+                "id": "REFINED_UMBER",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Refined Tungsten",
+                "id": "REFINED_TUNGSTEN",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Glacite Amalgamation",
+                "id": "GLACITE_AMALGAMATION",
+                "source": "BAZAAR",
+                "quantity": 4
+              }
+            ]
+          }
+        },
+        {
+          "name": "Pendant Of Divan",
+          "id": "DIVAN_PENDANT",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": ["Heart of the Mountain Tier 10"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Shattered Locket",
+                "id": "SHATTERED_PENDANT",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Perfect Plate",
+                "id": "PERFECT_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Divan Fragment",
+                "id": "DIVAN_FRAGMENT",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Relic Of Power",
+          "id": "POWER_RELIC",
+          "source": "NONE",
+          "rarity": "EPIC",
+          "duration": 8,
+          "requirements": ["Heart of the Mountain Tier 10"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Artifact Of Power",
+                "id": "POWER_ARTIFACT",
+                "source": "NONE",
+                "quantity": 1
+              },
+              {
+                "item": "Perfect Plate",
+                "id": "PERFECT_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Glacite Amalgamation",
+                "id": "GLACITE_AMALGAMATION",
+                "source": "BAZAAR",
+                "quantity": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "REFORGE STONES",
+      "items": [
+        {
+          "name": "Diamonite",
+          "id": "DIAMONITE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Diamond",
+                "id": "REFINED_DIAMOND",
+                "source": "BAZAAR",
+                "quantity": 3
+              }
+            ]
+          }
+        },
+        {
+          "name": "Pocket Iceberg",
+          "id": "POCKET_ICEBERG",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glacite Jewel",
+                "id": "GLACITE_JEWEL",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Petrified Starfall",
+          "id": "PETRIFIED_STARFALL",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Starfall",
+                "id": "STARFALL",
+                "source": "BAZAAR",
+                "quantity": 512
+              }
+            ]
+          }
+        },
+        {
+          "name": "Pure Mithril",
+          "id": "PURE_MITHRIL",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 2
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dwarven Geode",
+          "id": "ROCK_GEMSTONE",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Cobblestone",
+                "id": "ENCHANTED_COBBLESTONE",
+                "source": "BAZAAR",
+                "quantity": 128
+              },
+              {
+                "item": "Treasurite",
+                "id": "TREASURITE",
+                "source": "BAZAAR",
+                "quantity": 64
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium Tesseract",
+          "id": "TITANIUM_TESSERACT",
+          "source": "BAZAAR",
+          "rarity": "RARE",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Enchanted Lapis Lazuli",
+                "id": "ENCHANTED_LAPIS_LAZULI",
+                "source": "BAZAAR",
+                "quantity": 16,
+                "sub_ingredients": [
+                  {
+                    "item": "Lapis Lazuli",
+                    "id": "LAPIS_LAZULI",
+                    "source": "BAZAAR",
+                    "quantity": 2560
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Gleaming Crystal",
+          "id": "GLEAMING_CRYSTAL",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glossy Gemstone",
+                "id": "GLOSSY_GEMSTONE",
+                "source": "BAZAAR",
+                "quantity": 32
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Diamond",
+                "id": "REFINED_DIAMOND",
+                "source": "BAZAAR",
+                "quantity": 2
+              }
+            ]
+          }
+        },
+        {
+          "name": "Scorched Topaz",
+          "id": "HOT_STUFF",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 6,
+          "requirements": ["Hard Stone Collection IV", "Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Hard Stone",
+                "id": "ENCHANTED_HARD_STONE",
+                "source": "BAZAAR",
+                "quantity": 128
+              },
+              {
+                "item": "Flawless Topaz Gemstone",
+                "id": "FLAWLESS_TOPAZ_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Topaz Gemstone",
+                    "id": "FINE_TOPAZ_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Amber Material",
+          "id": "AMBER_MATERIAL",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 6,
+          "requirements": ["Heart of the Mountain Tier 6"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Fine Amber Gemstone",
+                "id": "FINE_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 12
+              },
+              {
+                "item": "Golden Plate",
+                "id": "GOLDEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Frigid Husk",
+          "id": "FRIGID_HUSK",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 6,
+          "requirements": ["Glacite Collection V", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Glacite Amalgamation",
+                "id": "GLACITE_AMALGAMATION",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Flawless Onyx Gemstone",
+                "id": "FLAWLESS_ONYX_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Onyx Gemstone",
+                    "id": "FINE_ONYX_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "DRILL PARTS",
+      "items": [
+        {
+          "name": "Starfall Seasoning",
+          "id": "STARFALL_SEASONING",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Treasurite",
+                "id": "TREASURITE",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Starfall",
+                "id": "STARFALL",
+                "source": "BAZAAR",
+                "quantity": 64
+              }
+            ]
+          }
+        },
+        {
+          "name": "Goblin Omelette",
+          "id": "GOBLIN_OMELETTE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Goblin Egg",
+                "id": "GOBLIN_EGG",
+                "source": "BAZAAR",
+                "quantity": 96
+              }
+            ]
+          }
+        },
+        {
+          "name": "Spicy Goblin Omelette",
+          "id": "GOBLIN_OMELETTE_SPICY",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Red Goblin Egg",
+                "id": "GOBLIN_EGG_RED",
+                "source": "BAZAAR",
+                "quantity": 96
+              },
+              {
+                "item": "Flawless Ruby Gemstone",
+                "id": "FLAWLESS_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Ruby Gemstone",
+                    "id": "FINE_RUBY_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Goblin Omelette",
+                "id": "GOBLIN_OMELETTE",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Pesto Goblin Omelette",
+          "id": "GOBLIN_OMELETTE_PESTO",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Green Goblin Egg",
+                "id": "GOBLIN_EGG_GREEN",
+                "source": "BAZAAR",
+                "quantity": 96
+              },
+              {
+                "item": "Flawless Jade Gemstone",
+                "id": "FLAWLESS_JADE_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Jade Gemstone",
+                    "id": "FINE_JADE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Goblin Omelette",
+                "id": "GOBLIN_OMELETTE",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sunny Side Goblin Omelette",
+          "id": "GOBLIN_OMELETTE_SUNNY_SIDE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Yellow Goblin Egg",
+                "id": "GOBLIN_EGG_YELLOW",
+                "source": "BAZAAR",
+                "quantity": 96
+              },
+              {
+                "item": "Flawless Topaz Gemstone",
+                "id": "FLAWLESS_TOPAZ_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Topaz Gemstone",
+                    "id": "FINE_TOPAZ_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Goblin Omelette",
+                "id": "GOBLIN_OMELETTE",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blue Cheese Goblin Omelette",
+          "id": "GOBLIN_OMELETTE_BLUE_CHEESE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Blue Goblin Egg",
+                "id": "GOBLIN_EGG_BLUE",
+                "source": "BAZAAR",
+                "quantity": 96
+              },
+              {
+                "item": "Flawless Sapphire Gemstone",
+                "id": "FLAWLESS_SAPPHIRE_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Sapphire Gemstone",
+                    "id": "FINE_SAPPHIRE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Goblin Omelette",
+                "id": "GOBLIN_OMELETTE",
+                "source": "AH",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tungsten Regulator",
+          "id": "TUNGSTEN_KEYCHAIN",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 18,
+          "requirements": ["Heart of the Mountain Tier 8"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Perfect Opal Gemstone",
+                "id": "PERFECT_OPAL_GEM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Fuel Canister",
+                "id": "FUEL_TANK",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Tungsten Plate",
+                "id": "TUNGSTEN_PLATE",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mithril-Plated Drill Engine",
+          "id": "MITHRIL_DRILL_ENGINE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 2
+              },
+              {
+                "item": "Mithril Plate",
+                "id": "MITHRIL_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium-Plated Drill Engine",
+          "id": "TITANIUM_DRILL_ENGINE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Mithril-Plated Drill Engine",
+                "id": "MITHRIL_DRILL_ENGINE",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 8
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 2
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ruby-Polished Drill Engine",
+          "id": "RUBY_POLISHED_DRILL_ENGINE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Titanium-Plated Drill Engine",
+                "id": "TITANIUM_DRILL_ENGINE",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Perfect Ruby Gemstone",
+                "id": "PERFECT_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Precursor Apparatus",
+                "id": "PRECURSOR_APPARATUS",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sapphire-Polished Drill Engine",
+          "id": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 8"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Ruby-Polished Drill Engine",
+                "id": "RUBY_POLISHED_DRILL_ENGINE",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Perfect Sapphire Gemstone",
+                "id": "PERFECT_SAPPHIRE_GEM",
+                "source": "BAZAAR",
+                "quantity": 3
+              },
+              {
+                "item": "Precursor Apparatus",
+                "id": "PRECURSOR_APPARATUS",
+                "source": "BAZAAR",
+                "quantity": 8
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Plasma",
+                "id": "PLASMA",
+                "source": "BAZAAR",
+                "quantity": 16
+              }
+            ]
+          }
+        },
+        {
+          "name": "Amber-Polished Drill Engine",
+          "id": "AMBER_POLISHED_DRILL_ENGINE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 9"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Sapphire-Polished Drill Engine",
+                "id": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Perfect Amber Gemstone",
+                "id": "PERFECT_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Precursor Apparatus",
+                "id": "PRECURSOR_APPARATUS",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Drill Motor",
+                "id": "DRILL_ENGINE",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Plasma",
+                "id": "PLASMA",
+                "source": "BAZAAR",
+                "quantity": 32
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mithril-Infused Fuel Tank",
+          "id": "MITHRIL_FUEL_TANK",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 24,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Diamond",
+                "id": "REFINED_DIAMOND",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 10
+              },
+              {
+                "item": "Fuel Canister",
+                "id": "FUEL_TANK",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Titanium-Infused Fuel Tank",
+          "id": "TITANIUM_FUEL_TANK",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Mithril-Infused Fuel Tank",
+                "id": "MITHRIL_FUEL_TANK",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Titanium",
+                "id": "REFINED_TITANIUM",
+                "source": "BAZAAR",
+                "quantity": 10
+              },
+              {
+                "item": "Refined Diamond",
+                "id": "REFINED_DIAMOND",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Fuel Canister",
+                "id": "FUEL_TANK",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Gemstone Fuel Tank",
+          "id": "GEMSTONE_FUEL_TANK",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Titanium-Infused Fuel Tank",
+                "id": "TITANIUM_FUEL_TANK",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Precursor Apparatus",
+                "id": "PRECURSOR_APPARATUS",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfectly-Cut Fuel Tank",
+          "id": "PERFECTLY_CUT_FUEL_TANK",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.0083,
+          "requirements": ["Heart of the Mountain Tier 8"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Gemstone Fuel Tank",
+                "id": "GEMSTONE_FUEL_TANK",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Precursor Apparatus",
+                "id": "PRECURSOR_APPARATUS",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Gemstone Mixture",
+                "id": "GEMSTONE_MIXTURE",
+                "source": "BAZAAR",
+                "quantity": 25
+              },
+              {
+                "item": "Plasma",
+                "id": "PLASMA",
+                "source": "BAZAAR",
+                "quantity": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "PERFECT GEMSTONES",
+      "items": [
+        {
+          "name": "Perfect Amber Gemstone",
+          "id": "PERFECT_AMBER_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Amber Gemstone",
+                "id": "FLAWLESS_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Amber Gemstone",
+                    "id": "FINE_AMBER_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Amber Crystal",
+                "id": "AMBER_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Amethyst Gemstone",
+          "id": "PERFECT_AMETHYST_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Amethyst Gemstone",
+                "id": "FLAWLESS_AMETHYST_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Amethyst Gemstone",
+                    "id": "FINE_AMETHYST_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Amethyst Crystal",
+                "id": "AMETHYST_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Jade Gemstone",
+          "id": "PERFECT_JADE_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Jade Gemstone",
+                "id": "FLAWLESS_JADE_GEM",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Jade Crystal",
+                "id": "JADE_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Jasper Gemstone",
+          "id": "PERFECT_JASPER_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Jasper Gemstone",
+                "id": "FLAWLESS_JASPER_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Jasper Gemstone",
+                    "id": "FINE_JASPER_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Jasper Crystal",
+                "id": "JASPER_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Opal Gemstone",
+          "id": "PERFECT_OPAL_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Opal Gemstone",
+                "id": "FLAWLESS_OPAL_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Opal Gemstone",
+                    "id": "FINE_OPAL_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Opal Crystal",
+                "id": "OPAL_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Ruby Gemstone",
+          "id": "PERFECT_RUBY_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Ruby Gemstone",
+                "id": "FLAWLESS_RUBY_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Ruby Gemstone",
+                    "id": "FINE_RUBY_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Ruby Crystal",
+                "id": "RUBY_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Sapphire Gemstone",
+          "id": "PERFECT_SAPPHIRE_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Sapphire Gemstone",
+                "id": "FLAWLESS_SAPPHIRE_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Sapphire Gemstone",
+                    "id": "FINE_SAPPHIRE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Sapphire Crystal",
+                "id": "SAPPHIRE_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Topaz Gemstone",
+          "id": "PERFECT_TOPAZ_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 5", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Topaz Gemstone",
+                "id": "FLAWLESS_TOPAZ_GEM",
+                "source": "BAZAAR",
+                "quantity": 5
+              },
+              {
+                "item": "Topaz Crystal",
+                "id": "TOPAZ_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Onyx Gemstone",
+          "id": "PERFECT_ONYX_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 7", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Onyx Gemstone",
+                "id": "FLAWLESS_ONYX_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Onyx Gemstone",
+                    "id": "FINE_ONYX_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Onyx Crystal",
+                "id": "ONYX_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Citrine Gemstone",
+          "id": "PERFECT_CITRINE_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 7", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Citrine Gemstone",
+                "id": "FLAWLESS_CITRINE_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Citrine Gemstone",
+                    "id": "FINE_CITRINE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Citrine Crystal",
+                "id": "CITRINE_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Aquamarine Gemstone",
+          "id": "PERFECT_AQUAMARINE_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 7", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Aquamarine Gemstone",
+                "id": "FLAWLESS_AQUAMARINE_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Aquamarine Gemstone",
+                    "id": "FINE_AQUAMARINE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Aquamarine Crystal",
+                "id": "AQUAMARINE_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Perfect Peridot Gemstone",
+          "id": "PERFECT_PERIDOT_GEM",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 7", "Gemstone Collection X"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Peridot Gemstone",
+                "id": "FLAWLESS_PERIDOT_GEM",
+                "source": "BAZAAR",
+                "quantity": 5,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Peridot Gemstone",
+                    "id": "FINE_PERIDOT_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 400
+                  }
+                ]
+              },
+              {
+                "item": "Peridot Crystal",
+                "id": "PERIDOT_CRYSTAL",
+                "source": "NONE",
+                "quantity": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "PETS",
+      "items": [
+        {
+          "name": "Bejeweled Collar",
+          "id": "BEJEWELED_COLLAR",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 2,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 4
+              },
+              {
+                "item": "Bejeweled Handle",
+                "id": "BEJEWELED_HANDLE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Glacite Jewel",
+                    "id": "GLACITE_JEWEL",
+                    "source": "BAZAAR",
+                    "quantity": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mole Pet",
+          "id": "PET_MOLE",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 72,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Claw Fossil",
+                "id": "CLAW_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Coins",
+                "id": "COINS",
+                "source": "COINS",
+                "quantity": 300000
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ammonite Pet",
+          "id": "PET_AMMONITE",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 72,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Helix Fossil",
+                "id": "HELIX",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Coins",
+                "id": "COINS",
+                "source": "COINS",
+                "quantity": 300000
+              }
+            ]
+          }
+        },
+        {
+          "name": "Penguin Pet",
+          "id": "PET_PENGUIN",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Donating a Webbed Fossil to Dr. Stone"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Webbed Fossil",
+                "id": "WEBBED_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Flawless Aquamarine Gemstone",
+                "id": "FLAWLESS_AQUAMARINE_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Aquamarine Gemstone",
+                    "id": "FINE_AQUAMARINE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "T-Rex Pet",
+          "id": "PET_TYRANNOSAURUS",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Donating a Footprint Fossil to Dr. Stone"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Footprint Fossil",
+                "id": "FOOTPRINT_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Flawless Onyx Gemstone",
+                "id": "FLAWLESS_ONYX_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Onyx Gemstone",
+                    "id": "FINE_ONYX_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Spinosaurus Pet",
+          "id": "PET_SPINOSAURUS",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Donating a Spine Fossil to Dr. Stone"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Spine Fossil",
+                "id": "SPINE_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Flawless Aquamarine Gemstone",
+                "id": "FLAWLESS_AQUAMARINE_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Aquamarine Gemstone",
+                    "id": "FINE_AQUAMARINE_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Goblin Pet",
+          "id": "PET_GOBLIN",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Donating an Ugly Fossil to Dr. Stone"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Ugly Fossil",
+                "id": "UGLY_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Flawless Amber Gemstone",
+                "id": "FLAWLESS_AMBER_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Amber Gemstone",
+                    "id": "FINE_AMBER_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ankylosaurus Pet",
+          "id": "PET_ANKYLOSAURUS",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Donating a Clubbed Fossil to Dr. Stone"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Clubbed Fossil",
+                "id": "CLUBBED_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Flawless Opal Gemstone",
+                "id": "FLAWLESS_OPAL_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Opal Gemstone",
+                    "id": "FINE_OPAL_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mammoth Pet",
+          "id": "PET_MAMMOTH",
+          "source": "AH",
+          "rarity": "LEGENDARY",
+          "duration": 168,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Donating a Tusk Fossil to Dr. Stone"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Tusk Fossil",
+                "id": "TUSK_FOSSIL",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Flawless Onyx Gemstone",
+                "id": "FLAWLESS_ONYX_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Onyx Gemstone",
+                    "id": "FINE_ONYX_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section": "MISCELLANEOUS",
+      "items": [
+        {
+          "name": "Beacon II",
+          "id": "BEACON_2",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 20,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Beacon I",
+                "id": "BEACON_1",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Beacon III",
+          "id": "BEACON_3",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 30,
+          "requirements": ["Heart of the Mountain Tier 3"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Beacon II",
+                "id": "BEACON_2",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "name": "Beacon IV",
+          "id": "BEACON_4",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 40,
+          "requirements": ["Heart of the Mountain Tier 4"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Beacon III",
+                "id": "BEACON_3",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 20
+              },
+              {
+                "item": "Plasma",
+                "id": "PLASMA",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Beacon V",
+          "id": "BEACON_5",
+          "source": "AH",
+          "rarity": "EPIC",
+          "duration": 50,
+          "requirements": ["Heart of the Mountain Tier 5"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Beacon IV",
+                "id": "BEACON_4",
+                "source": "AH",
+                "quantity": 1
+              },
+              {
+                "item": "Refined Mithril",
+                "id": "REFINED_MITHRIL",
+                "source": "BAZAAR",
+                "quantity": 40
+              },
+              {
+                "item": "Plasma",
+                "id": "PLASMA",
+                "source": "BAZAAR",
+                "quantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "name": "Travel Scroll To The Dwarven Forge",
+          "id": "FORGE_TRAVEL_SCROLL",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 5,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Titanium",
+                "id": "TITANIUM_ORE",
+                "source": "BAZAAR",
+                "quantity": 80
+              },
+              {
+                "item": "Enchanted Ender Pearl",
+                "id": "ENCHANTED_ENDER_PEARL",
+                "source": "BAZAAR",
+                "quantity": 16
+              },
+              {
+                "item": "Mithril",
+                "id": "MITHRIL_ORE",
+                "source": "BAZAAR",
+                "quantity": 48
+              },
+              {
+                "item": "Coins",
+                "id": "COINS",
+                "source": "COINS",
+                "quantity": 25000
+              }
+            ]
+          }
+        },
+        {
+          "name": "Travel Scroll To The Dwarven Base Camp",
+          "id": "BASE_CAMP_TRAVEL_SCROLL",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 10,
+          "requirements": [
+            "Heart of the Mountain Tier 7",
+            "Riding a Minecart to the Dwarven Base Camp"
+          ],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Flawless Onyx Gemstone",
+                "id": "FLAWLESS_ONYX_GEM",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Fine Onyx Gemstone",
+                    "id": "FINE_ONYX_GEM",
+                    "source": "BAZAAR",
+                    "quantity": 80
+                  }
+                ]
+              },
+              {
+                "item": "Enchanted Ender Pearl",
+                "id": "ENCHANTED_ENDER_PEARL",
+                "source": "BAZAAR",
+                "quantity": 16,
+                "sub_ingredients": [
+                  {
+                    "item": "Ender Pearl",
+                    "id": "ENDER_PEARL",
+                    "source": "BAZAAR",
+                    "quantity": 320
+                  }
+                ]
+              },
+              {
+                "item": "Coins",
+                "id": "COINS",
+                "source": "COINS",
+                "quantity": 500000
+              }
+            ]
+          }
+        },
+        {
+          "name": "Power Crystal",
+          "id": "POWER_CRYSTAL",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 2,
+          "requirements": ["Heart of the Mountain Tier 2"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Starfall",
+                "id": "STARFALL",
+                "source": "BAZAAR",
+                "quantity": 256
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tungsten Key",
+          "id": "TUNGSTEN_KEY",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 0.0083,
+          "requirements": ["Tungsten Collection IV", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Tungsten",
+                "id": "ENCHANTED_TUNGSTEN",
+                "source": "BAZAAR",
+                "quantity": 192
+              },
+              {
+                "item": "Bejeweled Handle",
+                "id": "BEJEWELED_HANDLE",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Umber Key",
+          "id": "UMBER_KEY",
+          "source": "BAZAAR",
+          "rarity": "EPIC",
+          "duration": 0.0083,
+          "requirements": ["Umber Collection IV", "Heart of the Mountain Tier 7"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Enchanted Umber",
+                "id": "ENCHANTED_UMBER",
+                "source": "BAZAAR",
+                "quantity": 192
+              },
+              {
+                "item": "Bejeweled Handle",
+                "id": "BEJEWELED_HANDLE",
+                "source": "BAZAAR",
+                "quantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "name": "Skeleton Key",
+          "id": "SKELETON_KEY",
+          "source": "BAZAAR",
+          "rarity": "LEGENDARY",
+          "duration": 0.5,
+          "requirements": ["Heart of the Mountain Tier 10"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Perfect Plate",
+                "id": "PERFECT_PLATE",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Bejeweled Handle",
+                "id": "BEJEWELED_HANDLE",
+                "source": "BAZAAR",
+                "quantity": 1,
+                "sub_ingredients": [
+                  {
+                    "item": "Glacite Jewel",
+                    "id": "GLACITE_JEWEL",
+                    "source": "BAZAAR",
+                    "quantity": 3
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Portable Campfire",
+          "id": "PORTABLE_CAMPFIRE",
+          "source": "AH",
+          "rarity": "RARE",
+          "duration": 0.5,
+          "requirements": ["Heart of the Mountain Tier 8"],
+          "recipe": {
+            "output": 1,
+            "ingredients": [
+              {
+                "item": "Refined Umber",
+                "id": "REFINED_UMBER",
+                "source": "BAZAAR",
+                "quantity": 1
+              },
+              {
+                "item": "Match-Sticks",
+                "id": "MATCH_STICKS",
+                "source": "BAZAAR",
+                "quantity": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
