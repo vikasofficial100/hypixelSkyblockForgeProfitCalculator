@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api/forge';
+export const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://hypixelskyblockforgeprofitcalculator.onrender.com/api/forge';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
@@ -71,7 +71,7 @@ export async function fetchForgeDetail(itemId) {
  * Check if backend is healthy
  */
 export async function checkHealth() {
-  const response = await axios.get('http://localhost:3000/health');
+  const response = await axios.get('https://hypixelskyblockforgeprofitcalculator.onrender.com/health');
   return response.data;
 }
 
