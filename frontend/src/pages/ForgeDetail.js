@@ -12,6 +12,27 @@ import {
 import { 
   ResponsiveContainer, XAxis, YAxis, CartesianGrid, Tooltip , LineChart, Line
 } from 'recharts';
+import { Helmet } from "react-helmet";
+
+
+<Helmet>
+  <title>{item.name} | Skyblock Forge</title>
+
+  <meta
+    name="description"
+    content={`Check price, profit, crafting cost and stats for ${item.name}`}
+  />
+
+  <meta
+    name="keywords"
+    content={`${item.name}, skyblock, forge profit, hypixel skyblock`}
+  />
+
+  <link
+    rel="canonical"
+    href={`https://skyblockforge.games/item/${item.id}`}
+  />
+</Helmet>
 
 function ForgeDetail() {
   const { itemId } = useParams();
