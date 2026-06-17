@@ -30,10 +30,10 @@ function Header({ sidebarOpen, setSidebarOpen }) {
           <span className="text-xs text-sky-text-secondary">
             Data from <a href="https://sky.coflnet.com" target="_blank" rel="noopener noreferrer" className="text-info-blue hover:underline">Coflnet API</a>
           </span>
-          <a href="https://discord.gg/example" target="_blank" rel="noopener noreferrer" className="text-sky-text-secondary hover:text-profit-green transition-colors">
+          <a href="https://discord.com/users/1410320305410281544" target="_blank" rel="noopener noreferrer" className="text-sky-text-secondary hover:text-profit-green transition-colors">
             <FaDiscord size={20} />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-sky-text-secondary hover:text-profit-green transition-colors">
+          <a href="https://github.com/vikasofficial100/hypixelSkyblockForgeProfitCalculator" target="_blank" rel="noopener noreferrer" className="text-sky-text-secondary hover:text-profit-green transition-colors">
             <FaGithub size={20} />
           </a>
         </div>
