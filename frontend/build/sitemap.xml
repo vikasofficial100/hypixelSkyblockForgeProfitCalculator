@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://skyblockforge.games/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main list page -->
+  <url>
+    <loc>https://skyblockforge.games/items</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ================= ITEMS ================= -->
+
+  <url><loc>https://skyblockforge.games/item/REFINED_DIAMOND</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_DIAMOND_BLOCK</loc></url>
+  <url><loc>https://skyblockforge.games/item/REFINED_MITHRIL</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_MITHRIL</loc></url>
+  <url><loc>https://skyblockforge.games/item/REFINED_TITANIUM</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_TITANIUM</loc></url>
+  <url><loc>https://skyblockforge.games/item/REFINED_UMBER</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_UMBER</loc></url>
+  <url><loc>https://skyblockforge.games/item/REFINED_TUNGSTEN</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_TUNGSTEN</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/BEJEWELED_HANDLE</loc></url>
+  <url><loc>https://skyblockforge.games/item/GLACITE_JEWEL</loc></url>
+  <url><loc>https://skyblockforge.games/item/DRILL_ENGINE</loc></url>
+  <url><loc>https://skyblockforge.games/item/TREASURITE</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_IRON_BLOCK</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_REDSTONE_BLOCK</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOLDEN_PLATE</loc></url>
+  <url><loc>https://skyblockforge.games/item/FUEL_TANK</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_COAL_BLOCK</loc></url>
+  <url><loc>https://skyblockforge.games/item/GEMSTONE_MIXTURE</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/FINE_JADE_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_AMBER_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_AMETHYST_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_SAPPHIRE_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_ONYX_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_CITRINE_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_PERIDOT_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_AQUAMARINE_GEM</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_GLACITE</loc></url>
+  <url><loc>https://skyblockforge.games/item/ENCHANTED_GOLD_BLOCK</loc></url>
+  <url><loc>https://skyblockforge.games/item/MITHRIL_PLATE</loc></url>
+  <url><loc>https://skyblockforge.games/item/TUNGSTEN_PLATE</loc></url>
+  <url><loc>https://skyblockforge.games/item/UMBER_PLATE</loc></url>
+  <url><loc>https://skyblockforge.games/item/PERFECT_PLATE</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/MITHRIL_DRILL_1</loc></url>
+  <url><loc>https://skyblockforge.games/item/GEMSTONE_DRILL_1</loc></url>
+  <url><loc>https://skyblockforge.games/item/FINE_RUBY_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/POLISHED_TOPAZ_ROD</loc></url>
+  <url><loc>https://skyblockforge.games/item/FLAWLESS_TOPAZ_GEM</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_DRILL_1</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/CHISEL</loc></url>
+  <url><loc>https://skyblockforge.games/item/TUNGSTEN</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/MITHRIL_NECKLACE</loc></url>
+  <url><loc>https://skyblockforge.games/item/MITHRIL_CLOAK</loc></url>
+  <url><loc>https://skyblockforge.games/item/MITHRIL_BELT</loc></url>
+  <url><loc>https://skyblockforge.games/item/MITHRIL_GAUNTLET</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/TITANIUM_NECKLACE</loc></url>
+  <url><loc>https://skyblockforge.games/item/REFINED_MINERAL</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_CLOAK</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_BELT</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_GAUNTLET</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/TITANIUM_TALISMAN</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_RING</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_ARTIFACT</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_RELIC</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/DIVAN_POWDER_COATING</loc></url>
+  <url><loc>https://skyblockforge.games/item/GLOSSY_GEMSTONE</loc></url>
+  <url><loc>https://skyblockforge.games/item/DIVAN_FRAGMENT</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/DIVAN_HELMET</loc></url>
+  <url><loc>https://skyblockforge.games/item/DIVAN_CHESTPLATE</loc></url>
+  <url><loc>https://skyblockforge.games/item/DIVAN_LEGGINGS</loc></url>
+  <url><loc>https://skyblockforge.games/item/DIVAN_BOOTS</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/DIVAN_PENDANT</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/GEMSTONE_CHAMBER</loc></url>
+  <url><loc>https://skyblockforge.games/item/WORM_MEMBRANE</loc></url>
+  <url><loc>https://skyblockforge.games/item/DWARVEN_HANDWARMERS</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/STARFALL</loc></url>
+  <url><loc>https://skyblockforge.games/item/PETRIFIED_STARFALL</loc></url>
+  <url><loc>https://skyblockforge.games/item/STARFALL_SEASONING</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/GOBLIN_EGG</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_EGG_RED</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_EGG_GREEN</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_EGG_YELLOW</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_EGG_BLUE</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/GOBLIN_OMELETTE</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_OMELETTE_SPICY</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_OMELETTE_PESTO</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_OMELETTE_SUNNY_SIDE</loc></url>
+  <url><loc>https://skyblockforge.games/item/GOBLIN_OMELETTE_BLUE_CHEESE</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/PLASMA</loc></url>
+  <url><loc>https://skyblockforge.games/item/PRECURSOR_APPARATUS</loc></url>
+
+  <url><loc>https://skyblockforge.games/item/MITHRIL_FUEL_TANK</loc></url>
+  <url><loc>https://skyblockforge.games/item/TITANIUM_FUEL_TANK</loc></url>
+  <url><loc>https://skyblockforge.games/item/GEMSTONE_FUEL_TANK</loc></url>
+  <url><loc>https://skyblockforge.games/item/PERFECTLY_CUT_FUEL_TANK</loc></url>
+
+  
+
+</urlset>
