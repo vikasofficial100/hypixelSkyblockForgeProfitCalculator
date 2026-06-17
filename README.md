@@ -107,26 +107,63 @@ Forge crafts can be searched, filtered, and sorted by multiple profitability met
 ```text
 skyblock-forge-profit-calculator/
 │
+├── Backend/
+│   ├── data/
+│   │   ├── cache.json
+│   │   └── recipe.json
+│   │
+│   ├── src/
+│   │   ├── config/
+│   │   │   └── constants.js
+│   │   │
+│   │   ├── routes/
+│   │   │   └── forgeRoutes.js
+│   │   │
+│   │   ├── services/
+│   │   │   ├── cacheService.js
+│   │   │   └── forgeService.js
+│   │   │
+│   │   ├── utils/
+│   │   │   ├── priceFetcher.js
+│   │   │   ├── profitCalculator.js
+│   │   │   └── recipeLoader.js
+│   │   │
+│   │   └── app.js
+│   │
+│   ├── package.json
+│   └── package-lock.json
+│
 ├── frontend/
 │   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       ├── services/
-│       ├── utils/
-│       ├── App.js
-│       └── index.js
-│
-├── backend/
-│   ├── routes/
-│   ├── controllers/
-│   ├── services/
-│   ├── utils/
-│   ├── app.js
-│   └── server.js
+│   │   ├── favicon.svg
+│   │   ├── index.html
+│   │   ├── robots.txt
+│   │   └── sitemap.xml
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ErrorDisplay.js
+│   │   │   ├── Header.js
+│   │   │   ├── LoadingSpinner.js
+│   │   │   ├── Sidebar.js
+│   │   │   └── SkeletonRow.js
+│   │   │
+│   │   ├── pages/
+│   │   │   ├── ForgeDetail.js
+│   │   │   └── ForgeList.js
+│   │   │
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   │
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── index.css
+│   │
+│   ├── package.json
+│   ├── package-lock.json
+│   └── tailwind.config.js
 │
 ├── README.md
-├── package.json
 └── .gitignore
 ```
 
@@ -273,4 +310,4 @@ Market prices fluctuate frequently, and profitability estimates may change over 
 
 ## License
 
-MIT License
+This project is licensed under the MIT License. See the LICENSE file for details.
